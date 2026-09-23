@@ -13,6 +13,10 @@ node_modules/
 */dist/
 Backend/config/config.env
 
+# catalyst deployments
+**/app-config.json
+**/.catalystrc
+
 # misc
 .DS_Store
 .env.local

@@ -1,0 +1,8 @@
+node_modules/
+config/config.env
+test/
+*.test.js
+*.log
+.env
+default_logo.png
+utils/seeder.js
